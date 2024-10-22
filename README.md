@@ -5,7 +5,7 @@
 * [Technologies Used](https://github.com/Pookam90/LendingClubCaseStudy/blob/main/README.md#technologies-used)
 * [Conclusions](https://github.com/Pookam90/LendingClubCaseStudy/blob/main/README.md#conculsions)
 * [Acknowledgements](https://github.com/Pookam90/LendingClubCaseStudy/blob/main/README.md#acknowledgements)
-* Collaborators
+* [Collaborators](https://github.com/Pookam90/LendingClubCaseStudy/blob/main/README.md#collaborators)
 
 ### Background:
 Lending Club is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. There are two types of risks associated with the bank’s decision:
