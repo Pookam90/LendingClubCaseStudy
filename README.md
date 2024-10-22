@@ -53,4 +53,4 @@ This project was inspired by UpGrad IITB Programme as a case study for the Machi
 Special thanks to the team for providing the resources and support for this case study.
 
 ### Collaborators:
- Pooja Kamath (https://github.com/Pookam90) and  Haripriya Pamu (https://github.com/HaripriyaPamu)
+ [Pooja Kamath](https://github.com/Pookam90) and  [Haripriya Pamu](https://github.com/HaripriyaPamu)
