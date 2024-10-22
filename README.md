@@ -1,7 +1,7 @@
 # Project Name: Lending Club CaseStudy 
 
 ## Table of Contents
-* Background
+* [Background](https://github.com/Pookam90/LendingClubCaseStudy/blob/main/README.md#background)
 * Technologies Used
 * Conclusions
 * Acknowledgements
