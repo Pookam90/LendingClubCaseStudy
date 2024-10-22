@@ -2,8 +2,8 @@
 
 ## Table of Contents
 * [Background](https://github.com/Pookam90/LendingClubCaseStudy/blob/main/README.md#background)
-* Technologies Used
-* Conclusions
+* [Technologies Used](https://github.com/Pookam90/LendingClubCaseStudy/blob/main/README.md#technologies-used)
+* [Conclusions](https://github.com/Pookam90/LendingClubCaseStudy/blob/main/README.md#conclusions)
 * Acknowledgements
 * Collaborators
 
