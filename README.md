@@ -1,5 +1,5 @@
 # Project Name: Lending Club CaseStudy 
------------------------------------------------------------------------------------------------------------------------------
+
 ## Table of Contents
 * Background
 * Technologies Used
